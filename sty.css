@@ -1,0 +1,37 @@
+body {
+  background-color: #7FB3D5;
+;
+
+}
+h1 {
+  color: #000000;
+}
+p {
+  font-family: fantasy;
+  color: #000000;
+}
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  font-weight: bold;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+
+}
+
+li a:hover {
+  background-color: #F1C40F;
+}
+  </style>
